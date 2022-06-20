@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: tech.zone84.updateoperators
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-mongodb, gradle, http-client, jackson-databind, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, mongo-sync, netty-server, readme, shade, testcontainers, yaml]
